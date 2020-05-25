@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "root",
+    "password": "root",
+    "database": "boblog",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "port":"3306",
+    "operatorsAliases": true
+  },
+  "test": {
+    "username": "root",
+    "password": "root",
+    "database": "boblog",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "port":"3306",
+    "operatorsAliases": true
+  },
+  "production": {
+    "username": "root",
+    "password": "root",
+    "database": "boblog",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "port":"3306",
+    "operatorsAliases": true
+  }
+}
